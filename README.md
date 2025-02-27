@@ -30,9 +30,9 @@ See the following example below to query the chat bot. starting with @bot provid
 
 ## Example Query to chat:
 
-'''
+```
 @bot write me a recipe for chocolate chip cookies
-'''
+```
 
 ## Troubleshooting/extras
 
